@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 LOG_NAME=daily.log
 
 export PATH=$PATH:/usr/local/bin/

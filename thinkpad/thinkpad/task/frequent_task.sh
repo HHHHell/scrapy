@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 LOG_NAME=frequent.log
 
 export PATH=$PATH:/usr/local/bin/
